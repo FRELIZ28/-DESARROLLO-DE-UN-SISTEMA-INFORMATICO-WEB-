@@ -10,7 +10,11 @@ De estas fases de la metodología se obtuvo un producto de calidad, totalmente d
 URL : https://github.com/FRELIZ28/-DESARROLLO-DE-UN-SISTEMA-INFORMATICO-WEB-/blob/main/README.md
 
 PALABRAS CLAVES 
+
 Sistema web 
+
 Ventas 
+
 Almacén 
+
 Registro 
