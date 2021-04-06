@@ -12,11 +12,8 @@ URL : https://github.com/FRELIZ28/-DESARROLLO-DE-UN-SISTEMA-INFORMATICO-WEB-/blo
 PALABRAS CLAVES 
 
 Sistema web 
-
 Ventas 
-
 Almacén 
-
 Registro 
 
 FECHA: 2021
